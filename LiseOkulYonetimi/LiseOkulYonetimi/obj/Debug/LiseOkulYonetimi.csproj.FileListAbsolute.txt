@@ -1,0 +1,41 @@
+c:\users\furkan\documents\visual studio 2015\Projects\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\LiseOkulYonetimi.exe.config
+c:\users\furkan\documents\visual studio 2015\Projects\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\LiseOkulYonetimi.exe
+c:\users\furkan\documents\visual studio 2015\Projects\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\LiseOkulYonetimi.pdb
+c:\users\furkan\documents\visual studio 2015\Projects\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.csprojResolveAssemblyReference.cache
+c:\users\furkan\documents\visual studio 2015\Projects\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.Form1.resources
+c:\users\furkan\documents\visual studio 2015\Projects\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.Properties.Resources.resources
+c:\users\furkan\documents\visual studio 2015\Projects\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.csproj.GenerateResource.Cache
+c:\users\furkan\documents\visual studio 2015\Projects\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.exe
+c:\users\furkan\documents\visual studio 2015\Projects\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.pdb
+C:\Users\emash\Desktop\ProjeB140910023FurkanUyanık1C\ProjeB140910023FurkanUyanık1C\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\LiseOkulYonetimi.exe.config
+C:\Users\emash\Desktop\ProjeB140910023FurkanUyanık1C\ProjeB140910023FurkanUyanık1C\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\LiseOkulYonetimi.exe
+C:\Users\emash\Desktop\ProjeB140910023FurkanUyanık1C\ProjeB140910023FurkanUyanık1C\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\LiseOkulYonetimi.pdb
+C:\Users\emash\Desktop\ProjeB140910023FurkanUyanık1C\ProjeB140910023FurkanUyanık1C\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.csprojResolveAssemblyReference.cache
+C:\Users\emash\Desktop\ProjeB140910023FurkanUyanık1C\ProjeB140910023FurkanUyanık1C\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.Form1.resources
+C:\Users\emash\Desktop\ProjeB140910023FurkanUyanık1C\ProjeB140910023FurkanUyanık1C\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.Properties.Resources.resources
+C:\Users\emash\Desktop\ProjeB140910023FurkanUyanık1C\ProjeB140910023FurkanUyanık1C\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.csproj.GenerateResource.Cache
+C:\Users\emash\Desktop\ProjeB140910023FurkanUyanık1C\ProjeB140910023FurkanUyanık1C\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\emash\Desktop\ProjeB140910023FurkanUyanık1C\ProjeB140910023FurkanUyanık1C\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.exe
+C:\Users\emash\Desktop\ProjeB140910023FurkanUyanık1C\ProjeB140910023FurkanUyanık1C\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.pdb
+C:\Users\emash\Desktop\ProjeB151210569BekimSylqa1A\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\LiseOkulYonetimi.exe.config
+C:\Users\emash\Desktop\ProjeB151210569BekimSylqa1A\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\LiseOkulYonetimi.exe
+C:\Users\emash\Desktop\ProjeB151210569BekimSylqa1A\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\LiseOkulYonetimi.pdb
+C:\Users\emash\Desktop\ProjeB151210569BekimSylqa1A\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.csprojResolveAssemblyReference.cache
+C:\Users\emash\Desktop\ProjeB151210569BekimSylqa1A\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.Form1.resources
+C:\Users\emash\Desktop\ProjeB151210569BekimSylqa1A\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.Properties.Resources.resources
+C:\Users\emash\Desktop\ProjeB151210569BekimSylqa1A\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.csproj.GenerateResource.Cache
+C:\Users\emash\Desktop\ProjeB151210569BekimSylqa1A\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\emash\Desktop\ProjeB151210569BekimSylqa1A\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.exe
+C:\Users\emash\Desktop\ProjeB151210569BekimSylqa1A\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.pdb
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\vtys\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\DATA\veritabani.mdf
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\vtys\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\DATA\veritabani_log.ldf
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\vtys\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\LiseOkulYonetimi.exe.config
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\vtys\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\LiseOkulYonetimi.exe
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\vtys\LiseOkulYonetimi\LiseOkulYonetimi\bin\Debug\LiseOkulYonetimi.pdb
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\vtys\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.csprojAssemblyReference.cache
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\vtys\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.Form1.resources
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\vtys\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.Properties.Resources.resources
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\vtys\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.csproj.GenerateResource.cache
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\vtys\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.csproj.CoreCompileInputs.cache
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\vtys\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.exe
+C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\vtys\LiseOkulYonetimi\LiseOkulYonetimi\obj\Debug\LiseOkulYonetimi.pdb
