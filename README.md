@@ -1,2 +1,2 @@
 # VTYSProje
-Veritabanı Yönetim Sistemleri
+Veritabanı Yönetim Sistemleri Proje Ödevi
